@@ -1,0 +1,35 @@
+body {
+  background-color: GhostWhite;
+  font-family: Calibri;
+  border-color: blue;
+  font-size: 16px;
+}
+ 
+#ImagemAna { 
+  float: left;
+}
+
+.topdiv {
+   text-align: center;
+   border-color: black;
+}
+
+.container {
+    display: flex;
+    padding-right:100px;
+
+}
+
+.leftContent {
+    margin-right: 50px;
+}
+
+
+.aboutMe {
+    margin-top: 30px;
+}
+
+.profileImage {
+    width: 200px;
+    height: 200px;
+}
